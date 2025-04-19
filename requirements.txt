@@ -1,0 +1,6 @@
+opencv-python
+streamlit-option-menu
+streamlit-authenticator
+streamlit-lottie
+face-recognition
+pillow
